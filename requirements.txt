@@ -1,0 +1,3 @@
+telethon
+numpy
+itertools
